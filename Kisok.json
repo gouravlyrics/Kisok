@@ -1,21 +1,24 @@
 [
-  {
-    "device_id": "5a6d9ed6a2feaef2",
-    "username": "9090",
-    "password": "9090",
-    "expirydate": "31-12-2025",
-    "Allowoffline": true,
-    "logins": [
-      {
-        "login_device_id": "device123",
-        "login_time": "19-07-2025 11:30",
-        "status": "original"
-      },
-      {
-        "login_device_id": "device999",
-        "login_time": "19-07-2025 12:45",
-        "status": "new_device"
-      }
-    ]
-  }
+
+{
+"device_id": "device123",
+"username": "user1",
+"password": "pass123",
+"expirydate": "31-12-2025",
+"Allowoffline": true
+},
+{
+"device_id": "device456",
+"username": "user2",
+"password": "pass456",
+"expirydate": "15-06-2025",
+"Allowoffline": false
+},
+"device_id": "5a6d9ed6a2feaef2",
+"username": "9090",
+"password": "9090",
+"expirydate": "15-06-2025",
+"Allowoffline": true
+
 ]
+
