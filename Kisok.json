@@ -18,7 +18,7 @@
         "username": "GouravTab",
         "password": "Gourav9090",
         "expirydate": "31-01-2024",
-        "Allowoffline": false 
+        "Allowoffline": true
     }
     
 ]
