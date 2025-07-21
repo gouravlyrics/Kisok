@@ -4,7 +4,7 @@
         "username": "user1",
         "password": "pass123",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+         "Allowoffline": true
     },
     {
         "device_id": "device456",
@@ -21,8 +21,7 @@
         "Allowoffline": true
     },
 {
-        "device_id": "151720dd33b23980,
-        "username": "Arpit",
+        "device_id": "151720dd33b23980",        "username": "Arpit",
         "password": "Arpit9090",
         "expirydate": "15-08-2050",
         "Allowoffline": true
